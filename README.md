@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A computer engineer with a passion for tech</h3>
 
-- 🔭 I’m currently working on **Career Compass**
-
-- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **adi.gupta2407@gmail.com**
 
