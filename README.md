@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineer with a passion for tech</h3>
 
 
-- 📫 How to reach me **adi.gupta2407@gmail.com**
+- 📫 How to reach me **adi.gupta2407@gmail.com**, **https://www.linkedin.com/in/aditya-gupta24/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E0In1KDngps2vYlX00xD8fe_8U5iWiwP/view?usp=drive_link](https://drive.google.com/file/d/1E0In1KDngps2vYlX00xD8fe_8U5iWiwP/view?usp=drive_link)
 
